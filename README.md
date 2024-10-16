@@ -4,7 +4,7 @@ This project aims to analyze taxi usage patterns, spatial distribution, and fina
 ## Chicago Taxi Trips Dataset
 This dataset includes taxi trips from 2013 to the present, reported to the City of Chicago in its role as a regulatory agency. To protect privacy but allow for aggregate analyses, the Taxi ID is consistent for any given taxi medallion number but does not show the number, Census Tracts are suppressed in some cases, and times are rounded to the nearest 15 minutes. Due to the data reporting process, not all trips are reported but the City believes that most are.
 ## Dataset
-The dataset used comes from Google Cloud and can be found [here] https://bigquery.cloud.google.com/dataset/bigquery-public-data:chicago_taxi_trips
+The dataset used comes from Google Cloud and can be found [here]https://bigquery.cloud.google.com/dataset/bigquery-public-data:chicago_taxi_trips
 ### Key Features
 - **Trip ID**: A unique identifier for each trip, facilitating easy tracking and analysis.
 - **Taxi I**: An identifier for the taxi involved in each trip, enabling tracking of individual vehicles.
