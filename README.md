@@ -28,5 +28,4 @@ The dataset used comes from Google Cloud and can be found [here] https://bigquer
 - **Pickup Centroid Location** : The location of the center of the pickup census tract or the community area if the census tract has been hidden for privacy. This column often will be blank for locations outside Chicago.
 - **Dropoff Centroid Latitude** : The latitude of the center of the dropoff census tract or the community area if the census tract has been hidden for privacy. This column often will be blank for locations outside Chicago.
 - **Dropoff Centroid Longitude** : The longitude of the center of the dropoff census tract or the community area if the census tract has been hidden for privacy. This column often will be blank for locations outside Chicago.
-
-23. **Dropoff Centroid Location** : The location of the center of the dropoff census tract or the community area if the census tract has been hidden for privacy. This column often will be blank for locations outside Chicago.
+- **Dropoff Centroid Location** : The location of the center of the dropoff census tract or the community area if the census tract has been hidden for privacy. This column often will be blank for locations outside Chicago.
